@@ -1,4 +1,4 @@
-const target = 'http://127.0.0.1:3000';
+const target = 'https://wegoyougoclient.herokuapp.com/:3000';
 
 module.exports = {
   devServer: {

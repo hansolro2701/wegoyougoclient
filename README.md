@@ -2,6 +2,9 @@
     "bower": "^1.7.1",
 
 
+    npm i @vue/cli-service
+
+
 ===================
 # client
 

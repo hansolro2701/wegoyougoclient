@@ -1,3 +1,8 @@
+  "dependencies": {
+    "bower": "^1.7.1",
+
+
+===================
 # client
 
 ## Project setup
